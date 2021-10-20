@@ -12,6 +12,5 @@ pool:
 steps:
 - script: python leap year.py
   displayName: 'Running sample script'
-
 - script: python hello world.py
-  displayName: 'Running hello sample '
+  displayName: 'Running hello program'
