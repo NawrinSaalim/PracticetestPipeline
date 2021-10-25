@@ -14,7 +14,7 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: python hello.py
-  displayName: 'Run a multi-line script'
+  displayName: 'Run a two-line script'
   
 - script: python add.py
-  displayName: 'Run a line script'
+  displayName: 'Run a multi-line script'
