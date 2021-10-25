@@ -15,3 +15,6 @@ steps:
 
 - script: python hello.py
   displayName: 'Run a multi-line script'
+  
+- script: python add.py
+  displayName: 'Run a line script'
